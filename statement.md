@@ -6,8 +6,11 @@ This Python template lets you get started quickly with a simple one-page playgro
 print('Hello World!')
 ```
 
+This Python template lets you use the name of the user and write a message back to them.
+
 ```python runnable
-print('very nice to meet you!')
+name2="Andy"
+print(name2,'very nice to meet you!')
 ```
 
 # Python program to print odd Numbers in given range
