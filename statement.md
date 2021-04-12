@@ -23,7 +23,7 @@ Python can gather input from the user as well. Although I can't get it to work h
 print("Enter your name:")
 x = input()
 print("Hello, " + x)
-
+you can try it here: https://www.w3schools.com/python/ref_func_input.asp
 
 # Python program to print odd Numbers in given range
 ```python runnable
