@@ -6,9 +6,6 @@ This Python template lets you get started quickly with a simple one-page playgro
 print('Hello World!')
 ```
 
-
-This Python template lets you get started quickly with a simple one-page playground.
-
 ```python runnable
 print('very nice to meet you!')
 ```
