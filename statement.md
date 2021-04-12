@@ -27,6 +27,12 @@ for num in range(start, end + 1):
 		print(num, end = " ")
 ```
 
+When you see the % symbol, you may think "percent". But in Python, as well as most other programming languages, it means something different.
+
+The % symbol in Python is called the Modulo Operator. It returns the remainder of dividing the left hand operand by right hand operand. It's used to get the remainder of a division problem.
+
+Also, != means not equal to.
+
 # Advanced usage
 
 If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
