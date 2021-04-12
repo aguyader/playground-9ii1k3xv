@@ -10,7 +10,7 @@ This Python template lets you use the name of the user and write a message back 
 
 ```python runnable
 name2="Andy"
-print(name2,'very nice to meet you!')
+print(name2,', very nice to meet you! It is great to have you here with us')
 ```
 
 # Python program to print odd Numbers in given range
