@@ -1,17 +1,19 @@
 # Welcome!
 
-This Python template lets you get started quickly with a simple one-page playground.
+Python can print message to use screen using a print() command
 
 ```python runnable
 print('Hello World!')
 ```
 
-This Python template lets you use the name of the user and write a message back to them.
+The message can be personalized by means of a variable holding the name of the person.
 
 ```python runnable
 name2="Andy"
 print(name2,', very nice to meet you! It is great to have you here with us')
 ```
+
+Python can gather input from the user as well
 
 # Python program to print odd Numbers in given range
 ```python runnable
