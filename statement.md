@@ -19,12 +19,11 @@ name2="Andy"
 print(name2,', very nice to meet you! It is great to have you here with us')
 ```
 
-Python can gather input from the user as well
-```python runnable
+Python can gather input from the user as well. Although I can't get it to work here, it would look just like this:
 print("Enter your name:")
 x = input()
 print("Hello, " + x)
-```
+
 
 # Python program to print odd Numbers in given range
 ```python runnable
