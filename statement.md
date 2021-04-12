@@ -48,7 +48,7 @@ The % symbol in Python is called the Modulo Operator. It returns the remainder o
 Also, != means not equal to.
 
 #Now change the code so that it prints even numbers in a given range
-# Python program to print odd Numbers in given range
+# Python program to print EVEN Numbers in given range
 ```python runnable
 start, end = 4, 19
 
