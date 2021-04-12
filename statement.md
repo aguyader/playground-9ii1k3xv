@@ -6,6 +6,12 @@ Python can print message to use screen using a print() command
 print('Hello World!')
 ```
 
+Now you make up a message:
+
+```python runnable
+print(' ')
+```
+
 The message can be personalized by means of a variable holding the name of the person.
 
 ```python runnable
