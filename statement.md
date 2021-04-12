@@ -59,3 +59,4 @@ for num in range(start, end + 1):
 	if num % 2 != 0: #change might be needed here
 		print(num, end = " ")
 ```
+May have got you there.... The == operator compares the value or equality of two objects. This means you should use the equality operators == and !=, when comparing objects - which is technially what we are doing here.
