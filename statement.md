@@ -15,8 +15,8 @@ print(' ')
 The message can be personalized by means of a variable holding the name of the person.
 
 ```python runnable
-name2="Your name goes here..."
-print(name2,', very nice to meet you! It is great to have you here with us')
+name2="Your name goes here... "
+print(name2,', very nice to meet you! It is great to have you here with us today!')
 ```
 
 Python can gather input from the user as well. Although I can't get it to work here, it would look just like this:
